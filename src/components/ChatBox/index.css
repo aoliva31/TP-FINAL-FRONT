@@ -1,0 +1,7 @@
+.chatbox-wrapper {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    height: calc(100vh - 90px);
+    overflow-x: hidden;
+    overflow-y: auto;
+}

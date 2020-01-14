@@ -1,0 +1,15 @@
+.avatar-wrapper {
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    color: #FFF;
+    font-size: 16pt;
+    font-weight: bold;
+    position: relative;
+}
+
+.avatar-wrapper .name {
+    position: absolute;
+    top: 5px;
+    left: 12px;
+}
